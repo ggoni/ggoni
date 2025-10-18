@@ -71,15 +71,6 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 🎓 Education & Certifications
-
-- **Master of Science in Artificial Intelligence** - Universidad Adolfo Ibáñez, Chile
-- **Digital Transformation Program** - MIT/Emeritus Institute
-- **Bachelor in Industrial Engineering** (Mining Specialization) - Pontificia Universidad Católica de Chile
-- **Certified Product Owner** - International Scrum Institute
-- **Data Scientist Professional Certificate** - Datacamp
-- **DS4A Graduate** - CorrelationOne & SoftBank
-
 ### 🌟 Professional Experience Highlights
 
 - **LATAM Airlines** - Digital Team Lead (2024 - Present)
@@ -88,6 +79,15 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 - **ACHS** - Head of People Analytics (2017 - 2018)
 - **Cencosud** - Multiple Leadership Roles (2012 - 2016)
 - **Ministry of Education | Chilean Government** - Cabinet Advisor (2011 - 2012)
+
+### 🎓 Education & Certifications
+
+- **Master of Science in Artificial Intelligence** - Universidad Adolfo Ibáñez, Chile
+- **Digital Transformation Program** - MIT/Emeritus Institute
+- **Bachelor in Industrial Engineering** (Mining Specialization) - Pontificia Universidad Católica de Chile
+- **Certified Product Owner** - International Scrum Institute
+- **Data Scientist Professional Certificate** - Datacamp
+- **DS4A Graduate** - CorrelationOne & SoftBank
 
 ### 🤝 Community & Teaching
 
