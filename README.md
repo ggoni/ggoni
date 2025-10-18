@@ -85,15 +85,15 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 **LATAM Airlines** - Digital Team Lead (2024 - Present)
 **Anticiparte** - Partner & Lead Consultant (2019 - Present)
 **Fintonic** - Operations Lead (2018 - 2019)
-**ACHS** - Administration Manager (2017 - 2018)
+**ACHS** - Head of People Analytics (2017 - 2018)
 **Cencosud** - Multiple Leadership Roles (2012 - 2016)
 **Ministry of Education | Chilean Government** - Cabinet Advisor (2011 - 2012)
 
 ### 🤝 Community & Teaching
 
 - 👨‍🏫 **Instructor** @ Universidad del Desarrollo - [Executive Innovation Programs](https://negocios.udd.cl/persona/german-goni-2/)
-- 🌱 **Mentor** @ 3iE Tech Incubator, Universidad Federico Santa María
-- 📝 **External Reviewer** for AI Projects - CORFO (Chilean Economic Development Agency)
+- 🌱 **Mentor** @ [3iE Tech Incubator](https://redmentores.3ie.cl/mentores_mentoras/german-goni/), Universidad Federico Santa María
+- 📝 **External Reviewer** for AI Projects - [CORFO](https://corfo.cl/sites/cpp/programasyconvocatorias/) (Chilean Economic Development Agency)
 
 ### 📫 How to Reach Me
 
@@ -103,17 +103,17 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 
 ### 💡 Core Competencies
 
+- **Digital Product Management** - Full lifecycle from ideation to deployment
+- **Innovation & Change Management** - Leading transformation initiatives across industries
 - **Data Science & Analytics** - Advanced statistical modeling, predictive analytics, causal inference
 - **Machine Learning & AI** - Deep learning, NLP, computer vision, LLMOps
-- **Digital Product Management** - Full lifecycle from ideation to deployment
 - **Business Development** - Strategy formulation, stakeholder management, P&L ownership
-- **Innovation & Change Management** - Leading transformation initiatives across industries
 
 ---
 
 💼 **Open to**: Collaborations on AI/ML projects, speaking opportunities, and consulting engagements
 
-🌟 **Fun Fact**: I've led innovation projects across diverse industries - from underground mining to aviation, fintech to retail!
+🎸 **Fun Fact**: I have eclectic musical tastes, and my collecting interests include Peruvian cumbia and old school metal vinyl records.
 
 ⚡ **Philosophy**: Transforming complex data into actionable strategy that delivers measurable business impact.
 
