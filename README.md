@@ -82,17 +82,12 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 
 ### 🌟 Professional Experience Highlights
 
-**LATAM Airlines** - Digital Team Lead (2024 - Present)
-
-**Anticiparte** - Partner & Lead Consultant (2019 - Present)
-
-**Fintonic** - Operations Lead (2018 - 2019)
-
-**ACHS** - Head of People Analytics (2017 - 2018)
-
-**Cencosud** - Multiple Leadership Roles (2012 - 2016)
-
-**Ministry of Education | Chilean Government** - Cabinet Advisor (2011 - 2012)
+- **LATAM Airlines** - Digital Team Lead (2024 - Present)
+- **Anticiparte** - Partner & Lead Consultant (2019 - Present)
+- **Fintonic** - Operations Lead (2018 - 2019)
+- **ACHS** - Head of People Analytics (2017 - 2018)
+- **Cencosud** - Multiple Leadership Roles (2012 - 2016)
+- **Ministry of Education | Chilean Government** - Cabinet Advisor (2011 - 2012)
 
 ### 🤝 Community & Teaching
 
