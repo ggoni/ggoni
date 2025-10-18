@@ -12,7 +12,7 @@ I'm an experienced engineer passionate about building innovative solutions throu
 ### 🚀 What I Do
 
 - 🛠️ Lead digital product development from exploration to deployment
-- 🤖 Build AI/ML solutions for real-world business problems
+- 🤖 Build AI/ML solutions for **real-world** business problems
 - 📊 Optimize operations using Causal Inference, Predictive Analytics, and Advanced ML
 - 💡 Drive innovation in mining, aviation, fintech, and retail industries
 - 🎓 Teach and mentor the next generation of data professionals
@@ -58,7 +58,6 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -72,7 +71,7 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
-**Methodologies**
+**Frameworks & Methodologies**
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
@@ -92,7 +91,7 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 **Fintonic** - Operations Lead (2018 - 2019)
 **ACHS** - Administration Manager (2017 - 2018)
 **Cencosud** - Multiple Leadership Roles (2012 - 2016)
-**Chilean Ministry of Education** - Cabinet Advisor (2011 - 2012)
+**Ministry of Education | Chilean Government** - Cabinet Advisor (2011 - 2012)
 
 ### 🤝 Community & Teaching
 
