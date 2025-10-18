@@ -103,13 +103,8 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germangoni/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:germangoni@icloud.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggoni@uc.cl)
 
-### 📊 GitHub Stats
-
-![Germán's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggoni&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ggoni&layout=compact&theme=radical)
 
 ### 💡 Core Competencies
 
