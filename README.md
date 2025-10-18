@@ -1,4 +1,4 @@
-# Hi there, I'm Germán Goñi 👋
+# 🇨🇱 Hi there, I'm Germán Goñi 👋
 
 ## Digital Professional | AI + Data Solutions Leader
 
@@ -7,9 +7,9 @@ I'm an experienced engineer passionate about building innovative solutions throu
 ### 🚀 What I Do
 
 - 🛠️ Lead digital product development from exploration to deployment
+- 💡 Drive innovation in mining, aviation, fintech, and retail industries
 - 🤖 Build AI/ML solutions for **real-world** business problems
 - 📊 Optimize operations using Causal Inference, Predictive Analytics, and Advanced ML
-- 💡 Drive innovation in mining, aviation, fintech, and retail industries
 - 🎓 Teach and mentor the next generation of data professionals
 
 ### 💼 Current Role
@@ -22,7 +22,7 @@ I'm an experienced engineer passionate about building innovative solutions throu
 
 ### 🎯 Highlighted Projects & Achievements
 
-#### 🏆 Underground Mining Traffic System
+#### 👷🏼 Underground Mining Traffic System
 Led implementation of ML-driven traffic management for Chuquicamata underground mine:
 - Reduced false positives from **20% to 3%**
 - Utilized Machine Learning and radar orchestration
@@ -103,12 +103,12 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 
 ### 💡 Core Competencies
 
-- **Digital Product Management** - Full lifecycle from ideation to deployment
 - **Innovation & Change Management** - Leading transformation initiatives across industries
+- **Digital Product Management** - Full lifecycle from ideation to deployment
 - **Data Science & Analytics** - Advanced statistical modeling, predictive analytics, causal inference
 - **Machine Learning & AI** - Deep learning, NLP, computer vision, LLMOps
 - **Business Development** - Strategy formulation, stakeholder management, P&L ownership
-
+  
 ---
 
 💼 **Open to**: Collaborations on AI/ML projects, speaking opportunities, and consulting engagements
