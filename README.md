@@ -1,8 +1,3 @@
-<!-- Banner Image - Replace 'banner.png' with your actual image filename -->
-<div align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</div>
-
 # Hi there, I'm Germán Goñi 👋
 
 ## Digital Professional | AI + Data Solutions Leader
