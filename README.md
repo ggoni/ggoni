@@ -15,9 +15,10 @@ I'm an experienced engineer passionate about building innovative solutions throu
 ### 💼 Current Role
 
 **Digital Team Lead @ LATAM Airlines** (2024 - Present)
+- My primary responsibility is leading the technical team working on the new **data monetization** project
 - Optimizing fleet maintenance and operations using ML and AI
 - Reducing aircraft downtime and maximizing operational reliability
-- Leading cross-functional teams in digital product implementation
+- Advising cross-functional teams in digital product implementation
 
 ### 🎯 Highlighted Projects & Achievements
 
@@ -90,7 +91,7 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 
 ### 🤝 Community & Teaching
 
-- 👨‍🏫 **Instructor** @ Universidad del Desarrollo - Executive Innovation Programs
+- 👨‍🏫 **Instructor** @ Universidad del Desarrollo - [Executive Innovation Programs](https://negocios.udd.cl/persona/german-goni-2/)
 - 🌱 **Mentor** @ 3iE Tech Incubator, Universidad Federico Santa María
 - 📝 **External Reviewer** for AI Projects - CORFO (Chilean Economic Development Agency)
 
