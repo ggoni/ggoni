@@ -83,11 +83,11 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 ### 🎓 Education & Certifications
 
 - **Master of Science in Artificial Intelligence** - Universidad Adolfo Ibáñez, Chile
-- **Digital Transformation Program** - MIT/Emeritus Institute
-- **Bachelor in Industrial Engineering** (Mining Specialization) - Pontificia Universidad Católica de Chile
 - **Certified Product Owner** - International Scrum Institute
+- **Digital Transformation Program** - MIT/Emeritus Institute
 - **Data Scientist Professional Certificate** - Datacamp
-- **DS4A Graduate** - CorrelationOne & SoftBank
+- **DS4A Graduate** - Data Science program by CorrelationOne & SoftBank
+- **Bachelor in Industrial Engineering** (Mining Specialization) - Pontificia Universidad Católica de Chile
 
 ### 🤝 Community & Teaching
 
