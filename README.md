@@ -82,7 +82,7 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 
 ### 🎓 Education & Certifications
 
-- **Master of Science in Artificial Intelligence** - Universidad Adolfo Ibáñez, Chile
+- **Master's Degree in Artificial Intelligence** - Universidad Adolfo Ibáñez, Chile
 - **Certified Product Owner** - International Scrum Institute
 - **Digital Transformation Program** - MIT/Emeritus Institute
 - **Data Scientist Professional Certificate** - Datacamp
