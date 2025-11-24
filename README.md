@@ -99,7 +99,7 @@ Created IoT/ML solution for groundwater management (currently in use by Sealand 
 
 ### 🤝 Community & Teaching
 
-- 👨‍🏫 **Instructor** @ Universidad del Desarrollo - [Executive Innovation Programs](https://negocios.udd.cl/persona/german-goni-2/)
+- 👨‍🏫 **Instructor** @ Universidad del Desarrollo - [Executive Innovation Programs](https://negocios.udd.cl/files/2025/07/brochure-diplomado-en-inteligencia-artificial-para-la-transformacion-empresarial-11-08-2025.pdf)
 - 🌱 **Mentor** @ [3iE Tech Incubator](https://redmentores.3ie.cl/mentores_mentoras/german-goni/), Universidad Federico Santa María
 - 📝 **External Reviewer** for AI Projects - [CORFO](https://corfo.cl/sites/cpp/programasyconvocatorias/) (Chilean Economic Development Agency)
 
