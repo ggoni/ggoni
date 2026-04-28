@@ -12,15 +12,14 @@ I'm an experienced engineer passionate about building innovative solutions throu
 - 📊 Optimize operations using Causal Inference, Predictive Analytics, and Advanced ML
 - 🎓 Teach and mentor the next generation of data professionals
 
-### 💼 Current Role
 
-**Digital Team Lead @ LATAM Airlines** (2024 - Present)
+### 🎯 Highlighted Projects & Achievements
+
+### ✈️ Digital Team Lead @ LATAM Airlines** (may 2024 - march 2026)
 - My primary responsibility is leading the technical team working on the new **data monetization** project
 - Optimizing fleet maintenance and operations using ML and AI
 - Reducing aircraft downtime and maximizing operational reliability
 - Advising cross-functional teams in digital product implementation
-
-### 🎯 Highlighted Projects & Achievements
 
 #### 👷🏼 Underground Mining Traffic System
 Led implementation of ML-driven traffic management for Chuquicamata underground mine:
