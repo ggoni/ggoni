@@ -15,7 +15,7 @@ I'm an experienced engineer passionate about building innovative solutions throu
 
 ### 🎯 Highlighted Projects & Achievements
 
-### ✈️ Digital Team Lead @ LATAM Airlines** (may 2024 - march 2026)
+#### ✈️ Digital Team Lead @ LATAM Airlines** (may 2024 - march 2026)
 - My primary responsibility is leading the technical team working on the new **data monetization** project
 - Optimizing fleet maintenance and operations using ML and AI
 - Reducing aircraft downtime and maximizing operational reliability
